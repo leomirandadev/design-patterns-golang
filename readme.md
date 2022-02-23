@@ -1,8 +1,8 @@
 # Design Patterns GoF
 Padrões de projeto implementados em Golang. Estão abordados os padrões:
-- Criacionais;
-- Estruturais;
-- Comportamentais
+- Criacionais (creational);
+- Estruturais (structural);
+- Comportamentais (behavioral);
 
 
 # Padrões Criacionais (creational)
