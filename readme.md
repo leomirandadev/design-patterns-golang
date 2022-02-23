@@ -45,4 +45,8 @@ Define uma dependência um-para-muitos entre objetos, de modo que, quando um obj
 
 ## ⭐ Strategy
 
+Define uma família de algoritmos, encapsular cada um deles e fazê-los intercambiáveis. O Strategy permite que o algoritmo varie independentemente dos clientes que o utilizam
+
 ## ⭐ Template Method
+
+Define o esqueleto de um algoritmo em uma operação, postergando a definição de alguns passos para subclasses. O Template Method permite que as subclasses redefinam certos passos de um algoritmo sem mudar sua estrutura.
